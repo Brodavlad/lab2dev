@@ -1,6 +1,1 @@
-"# lab2devOpsBrod" 
-"# lab2dev" 
-"# lab2dev" 
-"# lab2dev" 
-"# lab2dev" 
-"# lab2dev" 
+"# lab2dev"
